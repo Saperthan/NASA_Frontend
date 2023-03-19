@@ -26,9 +26,9 @@ Start the backend either by opening the project in Intellij, build and run the S
 run this on the command line from the root path on the project: mvn spring-boot:run
 
 
-The frontend client is running on localhost:3000, and backend server on localhost:8080. If you use different port on the frontend, please make sure to change @Cross-Origin port value to the one you are using on AsteroidController.java
+The frontend client is running on localhost:3000, and backend server on localhost:8080. If you use different port on the frontend, please make sure to change @Cross-Origin value to the one you are using on AsteroidController.java
 
-If any questions regarding starting the application, feel free to send me an email to saperthans@gmail.com
+If you have any questions regarding starting the application, feel free to send me an email to saperthans@gmail.com
 
 
 Asteroid List page: 
